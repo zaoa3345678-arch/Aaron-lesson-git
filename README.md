@@ -4,3 +4,5 @@ make some revision
 ctrl + S
 
 this sentence will be show at github
+
+i am the collaborator
